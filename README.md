@@ -1,7 +1,7 @@
 # UkrAlarmSpeaker 
 Говорить голосом про початоки та відміни тривог по Україні.
 
-Отримує дані з https://map.ukrainealarm.com/ через websocket
+Отримує дані з https://map.ukrainealarm.com/ та wss://ws.ukrainealarm.com через websocket
 
 Написано на Python
 
