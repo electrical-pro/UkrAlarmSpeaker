@@ -5,6 +5,8 @@
 
 Написано на Python
 
+Працює на Windows (просто запустити файл)
+
 Have fun!
 
 <img src="A1.jpg">
