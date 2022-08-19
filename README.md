@@ -7,12 +7,13 @@
 3. Показує список регіонів де тривога та тип тривоги (UNKNOWN, AIR, ARTILLERY, URBAN_FIGHTS, CHEMICAL, NUCLEAR, INFO)
 4. Працює на websocket тому затримки мінімальні (менше секунди).
 5. Показує скільки людей зараз переглядає карту (користувачі онлайн).
+6. Не потребує встановлення, достатньо запустити exe файл.
 
-Отримує дані з https://map.ukrainealarm.com/ та 'wss://ws.ukrainealarm.com' через websocket
+Отримує дані з https://map.ukrainealarm.com/ та через websocket з 'wss://ws.ukrainealarm.com'
 
 Написано на Python
 
-Працює на Windows (просто запустити файл)
+Працює на Windows (просто запустити exe файл)
 
 Have fun!
 
