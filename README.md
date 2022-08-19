@@ -22,5 +22,5 @@ Have fun!
 # Stay safe!
 <img src="A2.jpg">
 
-#v0.77
+# v0.77
 <img src="A3.jpg">
